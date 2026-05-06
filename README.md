@@ -52,7 +52,7 @@ Make sure you have the following installed before setting up the project:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/audex.git
+git clone https://github.com/sguptamc25/audex.git
 cd audex
 ```
 
